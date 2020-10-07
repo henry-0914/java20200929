@@ -11,3 +11,4 @@ public class StringTrimExample {
 		System.out.println(tel);
 	}
 }
+
