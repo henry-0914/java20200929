@@ -16,6 +16,7 @@ public class Car {
 		}
 		
 		Car(String model, String color) {
+			
 			this(model, color, 250); // 생성자
 			
 		}
