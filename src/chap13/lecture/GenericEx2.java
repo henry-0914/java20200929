@@ -1,0 +1,7 @@
+package chap13.lecture;
+
+public class GenericEx2 {
+	MyClass2<Number> o1 = new MyClass2<>();
+	MyClass2<Integer> o2 = new MyClass2<>();
+	//MyClass2<Object> o3 = new MyClass<>();
+}
