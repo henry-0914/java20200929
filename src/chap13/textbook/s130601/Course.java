@@ -15,9 +15,9 @@ public class Course <T> {
 	public T[] getStudents() {
 		return students;
 	}
-	public void add(T t) {
+	public void add(T student) {
 		for(int i = 0; i<students.length; i++ ) {
-			students[i] = t;
+			students[i] = student;
 			break;
 		}
 	}

@@ -5,7 +5,15 @@ import java.util.List;
 import java.util.Vector;
 import java.util.concurrent.ExecutorService;
 
-public class ServerExample extends Application {
+import org.omg.CORBA.portable.ApplicationException;
+import org.omg.CORBA.portable.InputStream;
+
+public class ServerExample extends ApplicationException {
+	public ServerExample(String arg0, InputStream arg1) {
+		super(arg0, arg1);
+		// TODO Auto-generated constructor stub
+	}
+
 	ExecutorService executorService;
 	ServerSocket serverSocket;
 	List<Client> connections = new Vector<Client>();
