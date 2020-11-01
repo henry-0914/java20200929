@@ -1,4 +1,4 @@
-package textBook;
+package SelfTextBook;
 
 public class CompareOperatorExample1 {
 	public static void main(String[] args) {

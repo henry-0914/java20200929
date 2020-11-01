@@ -1,4 +1,4 @@
-package textBook;
+package SelfTextBook;
 
 public class CharOperatorExample {
 	public static void main(String[] args) {

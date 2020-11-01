@@ -1,4 +1,4 @@
-package textBook;
+package SelfTextBook;
 
 public class BitShiftExample {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package textBook;
+package SelfTextBook;
 
 public class IncreaseDecreaseOperatorExample {
 	public static void main(String[] args) {

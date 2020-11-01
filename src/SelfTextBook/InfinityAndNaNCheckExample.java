@@ -1,4 +1,4 @@
-package textBook;
+package SelfTextBook;
 
 public class InfinityAndNaNCheckExample {
 	public static void main(String[] args) {

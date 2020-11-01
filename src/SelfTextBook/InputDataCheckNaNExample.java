@@ -1,4 +1,4 @@
-package textBook;
+package SelfTextBook;
 
 public class InputDataCheckNaNExample {
 	public static void main(String[] args) {

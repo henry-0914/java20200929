@@ -1,4 +1,4 @@
-package textBook;
+package SelfTextBook;
 
 public class BitLogicExample {
 	public static void main(String[] args) {
